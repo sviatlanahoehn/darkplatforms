@@ -10,7 +10,9 @@ By compiling and sharing corpora from "dark" platforms we enable new scientific 
 ### PushShift Telegram
 The PushShift Telegram dataset Baumgartner et al. (2020) is compiled from 27.800 mostly English channels and 2.2 M unique users.
 
-Download link: 
+Link to Github code for download manual: https://github.com/pushshift/telegram
+
+Snapshot download link: https://zenodo.org/record/3607497#.YbDC6C2ZN5M
 
 ### Capitol riot
 Solopova et al. (2021) compiled a corpus from all messages from a Telegram channel supporting Donald Trump from end of 2016 till January 2021.
