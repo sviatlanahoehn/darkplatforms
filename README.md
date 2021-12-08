@@ -5,20 +5,28 @@ messengers such as Telegram are often used by actors who prefer to be "in the sh
 
 By compiling and sharing corpora from "dark" platforms we enable new scientific discussion and facilitate research reproducibility. This in turn may speed-up discussions about content regulation on "dark" platforms. This is why we decided to make this repository a place for sharing and linking our and other people's corpora from "dark" platforms
 
-# Telegram corpora
+## Telegram corpora
 
-## PushShift Telegram
+### PushShift Telegram
 The PushShift Telegram dataset Baumgartner et al. (2020) is compiled from 27.800 mostly English channels and 2.2 M unique users.
 
-# 4chan
+Download link: 
 
-# Gab
+### Capitol riot
+Solopova et al. (2021) compiled a corpus from all messages from a Telegram channel supporting Donald Trump from end of 2016 till January 2021.
+Download link: 
 
-# Parler
+## 4chan corpora
 
-# PushShift Reddit
+## Gab
+
+## Parler corpora
+
+## Reddit corpora
+### PushShift Reddit
 Download link https://files.pushshift.io/reddit/
 
-# References
+## References
 * J. Zeng, M. S. Schäfer (2021) Conceptualizing “dark platforms”. Covid-19-related conspiracy theories on 8kun and Gab, Digital Journalism (2021) 1–23.
 * Baumgartner, J., Zannettou, S., Squire, M., & Blackburn, J. (2020, May). The Pushshift Telegram Dataset. In Proceedings of the International AAAI Conference on Web and Social Media (Vol. 14, pp. 840-847).
+* V. Solopova, T. Scheffler, M. Popa-Wyatt (2021). A Telegram corpus for hate speech, offensive language, and online harm, Journal of Open Humanities Data 7 
