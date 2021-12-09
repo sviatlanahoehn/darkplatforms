@@ -33,7 +33,13 @@ Download link: https://osf.io/ck3gd/
 
 ## 4chan corpora
 
-## Gab
+### Raiders of the Lost Kek: 3.5 Years of Augmented 4chan Posts from the Politically Incorrect Board
+
+Papasavva et. al collected over 3.3M threads and 134.5M posts from 4chan’s Politically Incorrect board between June 2016 and November 2019.
+
+Download link: https://doi.org/10.5281/zenodo.3606810
+
+## Gab corpora
 
 ## Parler corpora
 
@@ -48,7 +54,7 @@ Download link https://files.pushshift.io/reddit/
 * Aliapoulios, M., Bevensee, E., Blackburn, J., Bradlyn, B., De Cristofaro, E., Stringhini, G., and Zannettou, S. (2021). An early look at the Parler online social
 network. arXiv preprint arXiv:2101.03820.
 * Fair, G. and Wesslen, R. (2019). Shouting into the void: A database of the alternative social media platform Gab. In Proc. 13th Int. AAAI Conf. on Web and Social Media (ICWSM’19), pages 608–610.
-* Hine, G., Onaolapo, J., De Cristofaro, E., Kourtellis, N., Leontiadis, I., Samaras, R., Stringhini, G., and Blackburn, J. (2017). Kek, Cucks, and God Emperor Trump: A measurement study of 4chan’s politically incorrect forum and its effects on the web. In Proc. 11th Int. AAAI Conf. on Web and Social Media (ICWSM’17). AAAI.
+* Papasavva, A., Zannettou, S., De Cristofaro, E., Stringhini, G., and Blackburn, J. (2020). Raiders of the lost Kek: 3.5 years of augmented 4chan posts from the politically incorrect board. In Proceedings 14th International AAAI Conference on Web and Social Media (ICWSM’20), pages 885–894.
 * Zignani, M., Quadri, C., Galdeman, A., Gaito, S., and Rossi, G. P. (2019). Mastodon content warnings: Inappropriate contents in a microblogging platform. In
 Proc. Int. 13th AAAI Conf. on Web and Social Media (ICWSM’19), pages 639–645.
 
