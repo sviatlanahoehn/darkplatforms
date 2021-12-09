@@ -1,5 +1,5 @@
 # Corpora from "dark" platforms
-Collection of corpora compiled from so-called "dark" platforms
+'Collection of corpora compiled from so-called "dark" platforms'
 
 Messengers such as Telegram are often used by actors who prefer to be "in the shadow", such as extreme right political movements and COVID-19 deniers but also oppressed political organisations in non-pluralistic systems and democracy defenders. Zeng and Schäfer (2021) describe such platforms as "dark" because they are less regulated and promote very much extreme, and even illegal content, but can also provide a safe area to fight for the rights in authoritarian regimes.
 
