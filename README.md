@@ -45,3 +45,12 @@ Download link https://files.pushshift.io/reddit/
 * J. Zeng, M. S. Schäfer (2021) Conceptualizing “dark platforms”. Covid-19-related conspiracy theories on 8kun and Gab, Digital Journalism (2021) 1–23.
 * Baumgartner, J., Zannettou, S., Squire, M., & Blackburn, J. (2020, May). The Pushshift Telegram Dataset. In Proceedings of the International AAAI Conference on Web and Social Media (Vol. 14, pp. 840-847).
 * V. Solopova, T. Scheffler, M. Popa-Wyatt (2021). A Telegram corpus for hate speech, offensive language, and online harm, Journal of Open Humanities Data 7 
+* Aliapoulios, M., Bevensee, E., Blackburn, J., Bradlyn, B., De Cristofaro, E., Stringhini, G., and Zannettou, S. (2021). An early look at the Parler online social
+network. arXiv preprint arXiv:2101.03820.
+* Fair, G. and Wesslen, R. (2019). Shouting into the void: A database of the alternative social media platform Gab. In Proc. 13th Int. AAAI Conf. on Web and Social Media (ICWSM’19), pages 608–610.
+* Hine, G., Onaolapo, J., De Cristofaro, E., Kourtellis, N., Leontiadis, I., Samaras, R., Stringhini, G., and Blackburn, J. (2017). Kek, Cucks, and God Emperor Trump: A measurement study of 4chan’s politically incorrect forum and its effects on the web. In Proc. 11th Int. AAAI Conf. on Web and Social Media (ICWSM’17). AAAI.
+* Zignani, M., Quadri, C., Galdeman, A., Gaito, S., and Rossi, G. P. (2019). Mastodon content warnings: Inappropriate contents in a microblogging platform. In
+Proc. Int. 13th AAAI Conf. on Web and Social Media (ICWSM’19), pages 639–645.
+
+
+
