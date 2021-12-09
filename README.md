@@ -41,6 +41,12 @@ Download link: https://doi.org/10.5281/zenodo.3606810
 
 ## Gab corpora
 
+### Shouting into the Void: A Database of the Alternative Social Media Platform Gab
+
+Fair and Wesslen compiled and shared a dataset of 37,012,061 posts (including edit histories), 24,551,804 comments, and 819,957 user profiles collected from Gab between 08/2016 and 12/2018.
+
+Download link: https://zenodo.org/record/1418347
+
 ## Parler corpora
 
 ## Reddit corpora
