@@ -7,6 +7,14 @@ By compiling and sharing corpora from "dark" platforms we enable new scientific 
 
 ## Telegram corpora
 
+### BelElect Telegram
+
+The dataset contains Telegram posts from 1.08.2020 to 14.04.2021 covering the time of the presidential elections in Belarus and the protests in the country after the elections. The protests were motivated by the accusation of falsification of the election results. These events split the country in state  and opposition supporters. 
+
+We included four state-supporting channels ONT NEWS, BelTA, Zheltye Slivy and Pool Pervogo, and four opposition channels BelSAT, Belarus Seychas, Belamova and TUT.BY with posts in Russian and Belorussian languages. The entire dataset was downloaded on April 15, 2021 using the built-in function of the Telegram messenger. The dataset contains 140.388 Telegram posts (76.918 opposition and 63.470 state); 109.721 posts contain non-empty text (58.976 opposition and 50.745 state). We limited the size of images and media files to 8 GB. The media files exceeding this limit were not included into download. They can be added using the message ID and channel ID.
+
+Download link: https://t1p.de/tzyn, 8GB .tgz.
+
 ### PushShift Telegram
 The PushShift Telegram dataset Baumgartner et al. (2020) is compiled from 27.800 mostly English channels and 2.2 M unique users.
 
@@ -16,7 +24,10 @@ Snapshot download link: https://zenodo.org/record/3607497#.YbDC6C2ZN5M
 
 ### Capitol riot
 Solopova et al. (2021) compiled a corpus from all messages from a Telegram channel supporting Donald Trump from end of 2016 till January 2021.
-Download link: 
+
+Description: A Telegram corpus containing harmful language. 
+
+Download link: https://osf.io/ck3gd/
 
 ## 4chan corpora
 
